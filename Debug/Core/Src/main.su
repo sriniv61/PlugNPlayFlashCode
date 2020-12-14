@@ -1,0 +1,7 @@
+main.c:115:5:bb_squares	48	static
+main.c:125:4:bb_slide	96	static
+main.c:151:4:bb_slide_rook	72	static
+main.c:158:5:main	16	static
+main.c:274:17:GetSector	24	static
+main.c:335:17:GetSectorSize	24	static
+main.c:374:13:SystemClock_Config	88	static
